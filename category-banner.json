@@ -1,0 +1,23 @@
+{
+    "message": "success get active category banners",
+    "code": 200,
+    "status": "success",
+    "data": [
+        {
+            "category_id": "R84sFXdHCKBpd00VkQiUyA",
+            "banners": [
+                "category/ramadhan_banner.jpg",
+                "category/ramadhan_banner.jpg",
+                "category/drink_banner.jpg"
+            ]
+        },
+        {
+            "category_id": "9FxovT-uKN_IlObiXOKR9Q",
+            "banners": [
+                "category/banner/Rectangle 17-2_9b56d3eb78bc3941d70ae67bdc34b1d1.jpg",
+                "category/banner/Rectangle 17-2_a669948cadc04f6ba48ab77ca76050f8.jpg",
+                "category/banner/Rectangle 17_38c6ef33aafee3535ef7d59bc3a04fed.jpg"
+            ]
+        }
+    ]
+}
