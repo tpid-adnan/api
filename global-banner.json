@@ -1,0 +1,10 @@
+{
+    "message": "success get active global banners",
+    "code": 200,
+    "status": "success",
+    "data": [
+        "banners/global/2_fdcab41d237187ce015419ccaa133b2f.png",
+        "banners/global/Rectangle 17_574041ff8b40177a963e3fb3e84a8029.jpg",
+        "banners/global/Rectangle 17-1_161e35cbc8dabbc5c5c5ef3350b8cbf1.jpg"
+    ]
+}
