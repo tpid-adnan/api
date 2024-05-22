@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Kadek Bintang",
+    "address": "Jl Mangga no.213, Cengkareng, Jakarta Barat",
+    "status": "Dalam Proses",
+    "history": [
+      {
+        "time": "11:30",
+        "action": "Scan dokumen"
+      },
+      {
+        "time": "12:30",
+        "action": "Scan dokumen"
+      },
+      {
+        "time": "12:30",
+        "action": "Panggilan tak terjawab"
+      }
+    ]
+  },
+  {
+    "name": "Rani Saputri",
+    "address": "Jl Semangka no.213, Cengkareng, Jakarta Barat",
+    "status": "Dalam Proses",
+    "history": [
+      {
+        "time": "11:30",
+        "action": "Scan dokumen"
+      },
+      {
+        "time": "12:30",
+        "action": "Scan dokumen"
+      },
+      {
+        "time": "12:35",
+        "action": "Panggilan tak terjawab"
+      },
+      {
+        "time": "12:36",
+        "action": "Panggilan tak terjawab"
+      },
+      {
+        "time": "12:37",
+        "action": "Panggilan tak terjawab"
+      },
+      {
+        "time": "12:38",
+        "action": "Panggilan tak terjawab"
+      },
+      {
+        "time": "12:39",
+        "action": "Panggilan tak terjawab"
+      },
+      {
+        "time": "12:40",
+        "action": "Panggilan tak terjawab"
+      },
+      {
+        "time": "12:41",
+        "action": "Panggilan tak terjawab"
+      },
+      {
+        "time": "12:42",
+        "action": "Panggilan tak terjawab"
+      }
+    ]
+  },
+  {
+    "name": "Dian Lestari",
+    "address": "Jl Durian no.10, Cengkareng, Jakarta Barat",
+    "status": "Selesai",
+    "history": [
+      {
+        "time": "09:30",
+        "action": "Scan dokumen"
+      },
+      {
+        "time": "09:40",
+        "action": "Panggilan diterima"
+      },
+      {
+        "time": "09:50",
+        "action": "Scan dokumen"
+      },
+      {
+        "time": "12:30",
+        "action": "Call"
+      },
+      {
+        "time": "12:33",
+        "action": "Panggilan tidak terjawab"
+      },
+      {
+        "time": "12:43",
+        "action": "Selesai"
+      }
+    ]
+  }
+]
