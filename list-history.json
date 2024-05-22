@@ -1,4 +1,8 @@
-[
+{
+    "message": "success get active global banners",
+    "code": 200,
+    "status": "success",
+    "data": [
   {
     "name": "Kadek Bintang",
     "address": "Jl Mangga no.213, Cengkareng, Jakarta Barat",
@@ -97,3 +101,4 @@
     ]
   }
 ]
+}
